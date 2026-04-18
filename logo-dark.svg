@@ -1,0 +1,23 @@
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#2F2F2F"/>
+
+  <!-- Icon -->
+  <g fill="none" stroke="#FFFFFF" stroke-width="3">
+    <path d="M40 100 L70 70"/>
+    <path d="M40 100 L70 130"/>
+    <circle cx="90" cy="100" r="3" fill="#FFFFFF"/>
+    <circle cx="105" cy="100" r="3" fill="#FFFFFF"/>
+    <circle cx="120" cy="100" r="3" fill="#FFFFFF"/>
+    <path d="M140 70 L170 100"/>
+    <path d="M140 130 L170 100"/>
+  </g>
+
+  <!-- Text -->
+  <text x="200" y="90" fill="#FFFFFF" font-size="40" font-family="Montserrat, Arial" font-weight="700">
+    SUNRISE SERVICE
+  </text>
+
+  <text x="200" y="130" fill="#B3B3B3" font-size="20" font-family="Montserrat, Arial" letter-spacing="3">
+    DATA TO REVENUE
+  </text>
+</svg>
